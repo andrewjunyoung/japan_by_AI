@@ -76,12 +76,10 @@ In short, this project provides a chance to:
 As a footnote for bilingual english-japanese readers, I wanted to give a gloss
 for how i've translated some japanese words into english.
 
-|--------------|--------------| 
 | 日本語       | English      |
 |--------------|--------------|
 | 地名         | Place name   |
 | 市名         | City (name)  |
 | 郵便番号     | Post code    |
 | AIによる日本 | Japan, by AI |
-|--------------|--------------|
 
