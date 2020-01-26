@@ -19,6 +19,7 @@ regions through data and visualizations.
 * [List of articles](#list-of-articles)
   * [Overview | 概念](#overview--概念)
 * [¿What is the «Japan, by AI» project? | これって何？](#what-is-the-japan-by-ai-project--何)
+  * [Common translations](#common-translations)
 
 <!-- vim-markdown-toc -->
 
@@ -68,4 +69,19 @@ In short, this project provides a chance to:
 このプロジェクトは色々な話題についてのエッセイ。そのエッセイは研究と図表を含み、英訳も付きます。
 
 このプロジェクトは日本についてですが、母語は英語です。ですから、基本的にそのエッセイは英語に書いてから、和訳を書きます。
+
+
+### Common translations
+
+As a footnote for bilingual english-japanese readers, I wanted to give a gloss
+for how i've translated some japanese words into english.
+
+|--------------|--------------| 
+| 日本語       | English      |
+|--------------|--------------|
+| 地名         | Place name   |
+| 市名         | City (name)  |
+| 郵便番号     | Post code    |
+| AIによる日本 | Japan, by AI |
+|--------------|--------------|
 
